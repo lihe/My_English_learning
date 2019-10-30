@@ -6,6 +6,7 @@ News|date
 [Meituan launches services to help visually impaired](https://github.com/lihe/My_English_learning/issues/3)|10/27/2019
 [Telegraph owners to put newspapers up for sale ](https://github.com/lihe/My_English_learning/issues/4)|10/28/2019
 [Huawei's foldable phone is finally going on sale in China](https://github.com/lihe/My_English_learning/issues/5)|10/29/2019
+[Huang Zheng tops Hurun List](https://github.com/lihe/My_English_learning/issues/7)|10/30/2019
 
 The Economist|date
 -|-

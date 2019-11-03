@@ -8,6 +8,7 @@ News|date
 [Huawei's foldable phone is finally going on sale in China](https://github.com/lihe/My_English_learning/issues/5)|10/29/2019
 [Huang Zheng tops Hurun List](https://github.com/lihe/My_English_learning/issues/7)|10/30/2019
 [UK set for general election ](https://github.com/lihe/My_English_learning/issues/8)|11/1/2019
+[Zhejiang cuts homework burden](https://github.com/lihe/My_English_learning/issues/10)|11/3/2019
 
 The Economist|date
 -|-

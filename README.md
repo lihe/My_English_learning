@@ -10,6 +10,7 @@ News|date
 [UK set for general election ](https://github.com/lihe/My_English_learning/issues/8)|11/1/2019
 [Zhejiang cuts homework burden](https://github.com/lihe/My_English_learning/issues/10)|11/3/2019
 [Job hunters judged in seconds](https://github.com/lihe/My_English_learning/issues/11)|11/4/2019
+[Warning over sneakers' craze](https://github.com/lihe/My_English_learning/issues/12)|11/5/2019
 
 The Economist|date
 -|-

@@ -12,7 +12,8 @@ News|date
 [Job hunters judged in seconds](https://github.com/lihe/My_English_learning/issues/11)|11/4/2019
 [Warning over sneakers' craze](https://github.com/lihe/My_English_learning/issues/12)|11/5/2019
 [Fast food boss shown door](https://github.com/lihe/My_English_learning/issues/13)|11/6/2019
-[ China is racing ahead in 5G](https://github.com/lihe/My_English_learning/issues/14)|11/7/2019
+[China is racing ahead in 5G](https://github.com/lihe/My_English_learning/issues/14)|11/7/2019
+[Joint effort to fix cathedral](https://github.com/lihe/My_English_learning/issues/15)|11/8/2019
 
 The Economist|date
 -|-

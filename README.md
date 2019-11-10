@@ -1,6 +1,6 @@
 # My_English_learning
 
-News|date
+News|Date
 -|-
 [ In a first, Chinese rich now outnumber American peers](https://github.com/lihe/My_English_learning/issues/1)|10/25/2019
 [Meituan launches services to help visually impaired](https://github.com/lihe/My_English_learning/issues/3)|10/27/2019
@@ -15,12 +15,15 @@ News|date
 [China is racing ahead in 5G](https://github.com/lihe/My_English_learning/issues/14)|11/7/2019
 [Joint effort to fix cathedral](https://github.com/lihe/My_English_learning/issues/15)|11/8/2019
 
-The Economist|date
+The Economist|Date
 -|-
 [Saving the public square](https://github.com/lihe/My_English_learning/issues/2) | 10/26/2019
 [Brexit has infected British politics from top to bottom](https://github.com/lihe/My_English_learning/issues/6) | 10/30/2019
 
-CET6|date
+CET6|Date
 -|-
 [2018_12_CET6(3)](https://github.com/lihe/My_English_learning/issues/9)|11/2/2019
 [2018_12_CET6(2)](https://github.com/lihe/My_English_learning/issues/16)|11/9/2019
+
+Elegant Prose|Date
+-|-

@@ -14,6 +14,7 @@ News|Date
 [Fast food boss shown door](https://github.com/lihe/My_English_learning/issues/13)|11/6/2019
 [China is racing ahead in 5G](https://github.com/lihe/My_English_learning/issues/14)|11/7/2019
 [Joint effort to fix cathedral](https://github.com/lihe/My_English_learning/issues/15)|11/8/2019
+[China launches 6G R&D](https://github.com/lihe/My_English_learning/issues/18)|11/11/2019
 
 The Economist|Date
 -|-

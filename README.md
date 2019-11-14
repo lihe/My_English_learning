@@ -17,6 +17,7 @@ News|Date
 [China launches 6G R&D](https://github.com/lihe/My_English_learning/issues/18)|11/11/2019
 [Univs to be hit by strikes](https://github.com/lihe/My_English_learning/issues/19)|11/12/2019
 [Catastrophic bushfire threat](https://github.com/lihe/My_English_learning/issues/20)|11/13/2019
+[Soldiers take ballet lessons](https://github.com/lihe/My_English_learning/issues/21)|11/14/2019
 
 The Economist|Date
 -|-

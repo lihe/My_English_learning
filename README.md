@@ -33,3 +33,4 @@ CET6|Date
 Elegant Prose|Date
 -|-
 [In Another World](https://github.com/lihe/My_English_learning/issues/17)|11/10/2019
+[It's Halloween](https://github.com/lihe/My_English_learning/issues/23)|11/16/2019

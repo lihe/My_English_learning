@@ -19,6 +19,7 @@ News|Date
 [Catastrophic bushfire threat](https://github.com/lihe/My_English_learning/issues/20)|11/13/2019
 [Soldiers take ballet lessons](https://github.com/lihe/My_English_learning/issues/21)|11/14/2019
 [Horse-head statue back home](https://github.com/lihe/My_English_learning/issues/22)|11/15/2019
+[Retirement is bad for mind](https://github.com/lihe/My_English_learning/issues/24)|11/18/2019
 
 The Economist|Date
 -|-

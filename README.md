@@ -20,6 +20,7 @@ News|Date
 [Soldiers take ballet lessons](https://github.com/lihe/My_English_learning/issues/21)|11/14/2019
 [Horse-head statue back home](https://github.com/lihe/My_English_learning/issues/22)|11/15/2019
 [Retirement is bad for mind](https://github.com/lihe/My_English_learning/issues/24)|11/18/2019
+[Gates retakes richest title](https://github.com/lihe/My_English_learning/issues/25)|11/19/2019
 
 The Economist|Date
 -|-

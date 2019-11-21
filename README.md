@@ -22,6 +22,7 @@ News|Date
 [Retirement is bad for mind](https://github.com/lihe/My_English_learning/issues/24)|11/18/2019
 [Gates retakes richest title](https://github.com/lihe/My_English_learning/issues/25)|11/19/2019
 [Prince's rebuttal a PR crash](https://github.com/lihe/My_English_learning/issues/26)|11/20/2019
+[Cambodia bans elephant rides](https://github.com/lihe/My_English_learning/issues/27)|11/21/2019
 
 The Economist|Date
 -|-

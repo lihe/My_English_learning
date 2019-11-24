@@ -24,6 +24,7 @@ News|Date
 [Prince's rebuttal a PR crash](https://github.com/lihe/My_English_learning/issues/26)|11/20/2019
 [Cambodia bans elephant rides](https://github.com/lihe/My_English_learning/issues/27)|11/21/2019
 [Climate strike, word of 2019](https://github.com/lihe/My_English_learning/issues/28)|11/22/2019
+[I half turn to go yet turning stay.](https://github.com/lihe/My_English_learning/issues/29)|11/24/2019
 
 The Economist|Date
 -|-

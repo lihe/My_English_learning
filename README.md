@@ -27,6 +27,7 @@ News|Date
 [I half turn to go yet turning stay.](https://github.com/lihe/My_English_learning/issues/29)|11/24/2019
 [Cat taxi charms riders](https://github.com/lihe/My_English_learning/issues/30)|11/25/2019
 [Oxygen bar goes viral](https://github.com/lihe/My_English_learning/issues/31)|11/26/2019
+[Treasure heist at German museum](https://github.com/lihe/My_English_learning/issues/32)|11/27/2019
 
 The Economist|Date
 -|-

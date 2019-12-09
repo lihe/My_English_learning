@@ -30,6 +30,7 @@ News|Date
 [Treasure heist at German museum](https://github.com/lihe/My_English_learning/issues/32)|11/27/2019
 [Google co-founders step aside](https://github.com/lihe/My_English_learning/issues/33)|12/5/2019
 [Harris drops out of 2020 race](https://github.com/lihe/My_English_learning/issues/34)|12/6/2019
+[Music boosts productivity](https://github.com/lihe/My_English_learning/issues/36)|12/9/2019
 
 The Economist|Date
 -|-

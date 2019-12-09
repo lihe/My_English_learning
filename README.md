@@ -40,6 +40,7 @@ CET6|Date
 -|-
 [2018_12_CET6(3)](https://github.com/lihe/My_English_learning/issues/9)|11/2/2019
 [2018_12_CET6(2)](https://github.com/lihe/My_English_learning/issues/16)|11/9/2019
+[2018_6_CET6(3)](https://github.com/lihe/My_English_learning/issues/35)|12/9/2019
 
 Elegant Prose|Date
 -|-

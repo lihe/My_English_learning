@@ -33,6 +33,7 @@ News|Date
 [Music boosts productivity](https://github.com/lihe/My_English_learning/issues/36)|12/9/2019
 [Lack of exercise in teens](https://github.com/lihe/My_English_learning/issues/37)|12/10/2019
 [World's lightest dessert](https://github.com/lihe/My_English_learning/issues/39)|12/11/2019
+[Chunyun tickets to go on sale](https://github.com/lihe/My_English_learning/issues/40)|12/12/2019
 
 The Economist|Date
 -|-

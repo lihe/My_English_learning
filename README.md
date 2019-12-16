@@ -36,6 +36,10 @@ News|Date
 [Chunyun tickets to go on sale](https://github.com/lihe/My_English_learning/issues/40)|12/12/2019
 [TOEFL, CSE standards linked](https://github.com/lihe/My_English_learning/issues/41)|12/14/2019
 
+TED|Date
+-|-
+[To help solve global problems, look to developing countries](https://github.com/lihe/My_English_learning/issues/42)|12/16/2019
+
 The Economist|Date
 -|-
 [Saving the public square](https://github.com/lihe/My_English_learning/issues/2) | 10/26/2019

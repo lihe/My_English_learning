@@ -35,6 +35,7 @@ News|Date
 [World's lightest dessert](https://github.com/lihe/My_English_learning/issues/39)|12/11/2019
 [Chunyun tickets to go on sale](https://github.com/lihe/My_English_learning/issues/40)|12/12/2019
 [TOEFL, CSE standards linked](https://github.com/lihe/My_English_learning/issues/41)|12/14/2019
+[Plants can purify the air?](https://github.com/lihe/My_English_learning/issues/43)|12/17/2019
 
 TED|Date
 -|-

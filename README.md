@@ -1,5 +1,26 @@
 # My_English_learning
 
+TED|Date
+-|-
+[To help solve global problems, look to developing countries](https://github.com/lihe/My_English_learning/issues/42)|12/16/2019
+
+The Economist|Date
+-|-
+[Saving the public square](https://github.com/lihe/My_English_learning/issues/2) | 10/26/2019
+[Brexit has infected British politics from top to bottom](https://github.com/lihe/My_English_learning/issues/6) | 10/30/2019
+
+CET6|Date
+-|-
+[2018_12_CET6(3)](https://github.com/lihe/My_English_learning/issues/9)|11/2/2019
+[2018_12_CET6(2)](https://github.com/lihe/My_English_learning/issues/16)|11/9/2019
+[2018_6_CET6(3)](https://github.com/lihe/My_English_learning/issues/35)|12/9/2019
+[2018_6_CET6(2)](https://github.com/lihe/My_English_learning/issues/38)|12/11/2019
+
+Elegant Prose|Date
+-|-
+[In Another World](https://github.com/lihe/My_English_learning/issues/17)|11/10/2019
+[It's Halloween](https://github.com/lihe/My_English_learning/issues/23)|11/16/2019
+
 News|Date
 -|-
 [ In a first, Chinese rich now outnumber American peers](https://github.com/lihe/My_English_learning/issues/1)|10/25/2019
@@ -37,23 +58,4 @@ News|Date
 [TOEFL, CSE standards linked](https://github.com/lihe/My_English_learning/issues/41)|12/14/2019
 [Plants can purify the air?](https://github.com/lihe/My_English_learning/issues/43)|12/17/2019
 
-TED|Date
--|-
-[To help solve global problems, look to developing countries](https://github.com/lihe/My_English_learning/issues/42)|12/16/2019
 
-The Economist|Date
--|-
-[Saving the public square](https://github.com/lihe/My_English_learning/issues/2) | 10/26/2019
-[Brexit has infected British politics from top to bottom](https://github.com/lihe/My_English_learning/issues/6) | 10/30/2019
-
-CET6|Date
--|-
-[2018_12_CET6(3)](https://github.com/lihe/My_English_learning/issues/9)|11/2/2019
-[2018_12_CET6(2)](https://github.com/lihe/My_English_learning/issues/16)|11/9/2019
-[2018_6_CET6(3)](https://github.com/lihe/My_English_learning/issues/35)|12/9/2019
-[2018_6_CET6(2)](https://github.com/lihe/My_English_learning/issues/38)|12/11/2019
-
-Elegant Prose|Date
--|-
-[In Another World](https://github.com/lihe/My_English_learning/issues/17)|11/10/2019
-[It's Halloween](https://github.com/lihe/My_English_learning/issues/23)|11/16/2019

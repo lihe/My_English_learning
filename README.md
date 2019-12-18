@@ -7,7 +7,7 @@ TED|Date
 The Economist|Date
 -|-
 [Saving the public square](https://github.com/lihe/My_English_learning/issues/2) | 10/26/2019
-[Brexit has infected British politics from top to bottom](https://github.com/lihe/My_English_learning/issues/6) | 10/30/2019
+[Brexit has infected British politics from top to bottom](https://github.com/lihe/My_English_learning/issues/6) | 12/18/2019
 
 CET6|Date
 -|-

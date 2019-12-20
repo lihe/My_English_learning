@@ -59,4 +59,4 @@ News|Date
 [TOEFL, CSE standards linked](https://github.com/lihe/My_English_learning/issues/41)|12/14/2019
 [Plants can purify the air?](https://github.com/lihe/My_English_learning/issues/43)|12/17/2019
 [PM: UK to exit EU by Jan 31](https://github.com/lihe/My_English_learning/issues/44)|12/18/2019
-
+[AI puts notes on symphony](https://github.com/lihe/My_English_learning/issues/46)|12/20/2019

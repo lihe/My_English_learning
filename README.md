@@ -63,3 +63,4 @@ News|Date
 [PM: UK to exit EU by Jan 31](https://github.com/lihe/My_English_learning/issues/44)|12/18/2019
 [AI puts notes on symphony](https://github.com/lihe/My_English_learning/issues/46)|12/20/2019
 [Sugar causes depression](https://github.com/lihe/My_English_learning/issues/49)|12/23/2019
+[Biochemist named Miss America](https://github.com/lihe/My_English_learning/issues/50)|12/25/2019

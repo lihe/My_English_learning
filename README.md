@@ -1,5 +1,9 @@
 # My_English_learning
 
+One sentence per day|Date
+-|-
+[Microsoft president's criticism of app stores puts pressure on Apple](https://github.com/lihe/My_English_learning/issues/54)|6/26/2020
+
 TED|Date
 -|-
 [To help solve global problems, look to developing countries](https://github.com/lihe/My_English_learning/issues/42)|12/16/2019

@@ -4,6 +4,7 @@ One sentence per day|Date
 -|-
 [Microsoft president's criticism of app stores puts pressure on Apple](https://github.com/lihe/My_English_learning/issues/54)|6/26/2020
 [Oxford and Cambridge universities fail to raise UK student numbers](https://github.com/lihe/My_English_learning/issues/55)|6/27/2020
+[Three](https://github.com/lihe/My_English_learning/issues/56)|6/29/2020
 
 TED|Date
 -|-

@@ -73,3 +73,4 @@ News|Date
 [Biochemist named Miss America](https://github.com/lihe/My_English_learning/issues/50)|12/25/2019
 [￡9,999 in-time delivery charge](https://github.com/lihe/My_English_learning/issues/51)|12/26/2019
 [Queen describes 2019 as 'bumpy'](https://github.com/lihe/My_English_learning/issues/52)|12/27/2019
+[Botswana investigates mysterious deaths of 275 elephants](https://github.com/lihe/My_English_learning/issues/57)|7/5/2020

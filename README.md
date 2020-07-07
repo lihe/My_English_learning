@@ -1,10 +1,8 @@
 # My_English_learning
 
-One sentence per day|Date
+Daily Sentence|Date
 -|-
-[One](https://github.com/lihe/My_English_learning/issues/54)|6/26/2020
-[Two](https://github.com/lihe/My_English_learning/issues/55)|6/27/2020
-[Three](https://github.com/lihe/My_English_learning/issues/56)|6/29/2020
+Even the bad experiences can be learned from.|7/7/2020
 
 TED|Date
 -|-
@@ -75,3 +73,4 @@ News|Date
 [Queen describes 2019 as 'bumpy'](https://github.com/lihe/My_English_learning/issues/52)|12/27/2019
 [Botswana investigates mysterious deaths of 275 elephants](https://github.com/lihe/My_English_learning/issues/57)|7/5/2020
 [Chinese badminton superstar Lin Dan announces retirement](https://github.com/lihe/My_English_learning/issues/58)|7/6/2020
+[Intermittent Fasting - How it Affects Sleep](https://github.com/lihe/My_English_learning/issues/58)|7/7/2020

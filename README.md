@@ -5,6 +5,10 @@ Daily Sentence|Date
 Even the bad experiences can be learned from.|7/7/2020
 Life cast molten passion in reality's shell.|7/8/2020
 
+Translation|Date
+-|-
+[雷锋精神](https://github.com/lihe/My_English_learning/issues/61)|7/8/2020
+
 TED|Date
 -|-
 [To help solve global problems, look to developing countries](https://github.com/lihe/My_English_learning/issues/42)|12/16/2019

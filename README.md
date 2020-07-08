@@ -3,6 +3,7 @@
 Daily Sentence|Date
 -|-
 Even the bad experiences can be learned from.|7/7/2020
+Life cast molten passion in reality's shell.|7/8/2020
 
 TED|Date
 -|-
@@ -73,4 +74,5 @@ News|Date
 [Queen describes 2019 as 'bumpy'](https://github.com/lihe/My_English_learning/issues/52)|12/27/2019
 [Botswana investigates mysterious deaths of 275 elephants](https://github.com/lihe/My_English_learning/issues/57)|7/5/2020
 [Chinese badminton superstar Lin Dan announces retirement](https://github.com/lihe/My_English_learning/issues/58)|7/6/2020
-[Intermittent Fasting - How it Affects Sleep](https://github.com/lihe/My_English_learning/issues/58)|7/7/2020
+[Intermittent Fasting - How it Affects Sleep](https://github.com/lihe/My_English_learning/issues/59)|7/7/2020
+[After Kanye West, everyone now wants to run for US presidency](https://github.com/lihe/My_English_learning/issues/60)|7/8/2020

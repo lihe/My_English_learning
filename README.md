@@ -4,6 +4,7 @@ Daily Sentence|Date
 -|-
 Even the bad experiences can be learned from.|7/7/2020
 Life cast molten passion in reality's shell.|7/8/2020
+I began to notice how wonderful the breeze smelled.|7/9/2020
 
 Translation|Date
 -|-
@@ -80,3 +81,4 @@ News|Date
 [Chinese badminton superstar Lin Dan announces retirement](https://github.com/lihe/My_English_learning/issues/58)|7/6/2020
 [Intermittent Fasting - How it Affects Sleep](https://github.com/lihe/My_English_learning/issues/59)|7/7/2020
 [After Kanye West, everyone now wants to run for US presidency](https://github.com/lihe/My_English_learning/issues/60)|7/8/2020
+[Huawei likely surpasses Samsung as top smartphone maker](https://github.com/lihe/My_English_learning/issues/62)|7/9/2020

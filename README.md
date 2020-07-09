@@ -10,7 +10,7 @@ I began to notice how wonderful the breeze smelled.|7/9/2020
 Translation|Date
 -|-
 [雷锋精神](https://github.com/lihe/My_English_learning/issues/61)|7/8/2020
-[筷子历史](https://github.com/lihe/My_English_learning/issues/61)|7/9/2020
+[筷子历史](https://github.com/lihe/My_English_learning/issues/63)|7/9/2020
 
 ## TED
 TED|Date

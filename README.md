@@ -92,3 +92,4 @@ News|Date
 [After Kanye West, everyone now wants to run for US presidency](https://github.com/lihe/My_English_learning/issues/60)|7/8/2020
 [Huawei likely surpasses Samsung as top smartphone maker](https://github.com/lihe/My_English_learning/issues/62)|7/9/2020
 [EU Forecasts Deeper Economic Hit From Pandemic](https://github.com/lihe/My_English_learning/issues/64)|7/10/2020
+[Scientific American: Eavesdropping Puts Anxious Squirrels at Ease](https://github.com/lihe/My_English_learning/issues/66)|7/11/2020

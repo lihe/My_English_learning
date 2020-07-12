@@ -8,6 +8,7 @@ I began to notice how wonderful the breeze smelled.|7/9/2020
 Man proposes, God disposes.|7/10/2020
 Take a moment to let the goodness of life touch your spirit and calm your thoughts.|7/11/2020
 Anyone who has never made a mistake has never tried anything new.|7/12/2020
+You can make of your life anything you wish.|7/13/2020
 
 ## Translation
 Translation|Date

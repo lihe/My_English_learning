@@ -97,3 +97,4 @@ News|Date
 [EU Forecasts Deeper Economic Hit From Pandemic](https://github.com/lihe/My_English_learning/issues/64)|7/10/2020
 [Scientific American: Eavesdropping Puts Anxious Squirrels at Ease](https://github.com/lihe/My_English_learning/issues/66)|7/11/2020
 [Success at School vs Success in Life](https://github.com/lihe/My_English_learning/issues/67)|7/12/2020
+[China raises flood response to second highest level](https://github.com/lihe/My_English_learning/issues/69)|7/13/2020

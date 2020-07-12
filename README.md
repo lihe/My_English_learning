@@ -15,6 +15,7 @@ Translation|Date
 [雷锋精神](https://github.com/lihe/My_English_learning/issues/61)|7/8/2020
 [筷子历史](https://github.com/lihe/My_English_learning/issues/63)|7/9/2020
 [李白](https://github.com/lihe/My_English_learning/issues/65)|7/10/2020
+[微电影](https://github.com/lihe/My_English_learning/issues/68)|7/12/2020
 
 ## TED
 TED|Date

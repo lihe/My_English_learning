@@ -9,6 +9,7 @@ Man proposes, God disposes.|7/10/2020
 Take a moment to let the goodness of life touch your spirit and calm your thoughts.|7/11/2020
 Anyone who has never made a mistake has never tried anything new.|7/12/2020
 You can make of your life anything you wish.|7/13/2020
+When I am an old woman, I shall wear pruple, with a red hat which doesn't go, and doesn't suit me.|7/14/2020
 
 ## Translation
 Translation|Date
@@ -99,3 +100,4 @@ News|Date
 [Scientific American: Eavesdropping Puts Anxious Squirrels at Ease](https://github.com/lihe/My_English_learning/issues/66)|7/11/2020
 [Success at School vs Success in Life](https://github.com/lihe/My_English_learning/issues/67)|7/12/2020
 [China raises flood response to second highest level](https://github.com/lihe/My_English_learning/issues/69)|7/13/2020
+[Why is it so hard to put down our phones?](https://github.com/lihe/My_English_learning/issues/70)|7/14/2020

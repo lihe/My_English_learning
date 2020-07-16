@@ -105,4 +105,4 @@ News|Date
 [China raises flood response to second highest level](https://github.com/lihe/My_English_learning/issues/69)|7/13/2020
 [Why is it so hard to put down our phones?](https://github.com/lihe/My_English_learning/issues/70)|7/14/2020
 [The Economist: Ship Fouling (1)](https://github.com/lihe/My_English_learning/issues/72)|7/15/2020
-[Trump has made 20,000 false or misleading claims since taking office: Washington Post](https://github.com/lihe/My_English_learning/issues/73)|7/15/2020
+[Trump has made 20,000 false or misleading claims since taking office: Washington Post](https://github.com/lihe/My_English_learning/issues/73)|7/16/2020

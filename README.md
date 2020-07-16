@@ -11,6 +11,7 @@ Anyone who has never made a mistake has never tried anything new.|7/12/2020
 You can make of your life anything you wish.|7/13/2020
 When I am an old woman, I shall wear pruple, with a red hat which doesn't go, and doesn't suit me.|7/14/2020
 The interest is in the future because I am going to spend the rest of my life there.|7/15/2020
+Fate makes relatives, but choice makes friends.|7/16/2010
 
 ## Translation
 Translation|Date
@@ -104,3 +105,4 @@ News|Date
 [China raises flood response to second highest level](https://github.com/lihe/My_English_learning/issues/69)|7/13/2020
 [Why is it so hard to put down our phones?](https://github.com/lihe/My_English_learning/issues/70)|7/14/2020
 [The Economist: Ship Fouling (1)](https://github.com/lihe/My_English_learning/issues/72)|7/15/2020
+[Trump has made 20,000 false or misleading claims since taking office: Washington Post](https://github.com/lihe/My_English_learning/issues/73)|7/15/2020

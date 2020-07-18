@@ -13,6 +13,7 @@ When I am an old woman, I shall wear pruple, with a red hat which doesn't go, an
 The interest is in the future because I am going to spend the rest of my life there.|7/15/2020
 Fate makes relatives, but choice makes friends.|7/16/2020
 Only you know what is best for you.|7/17/2020
+The greatest briliance in life lies not in never falling, but fall can always rise again.|7/18/2020
 
 ## Translation
 Translation|Date
@@ -107,3 +108,4 @@ News|Date
 [Why is it so hard to put down our phones?](https://github.com/lihe/My_English_learning/issues/70)|7/14/2020
 [The Economist: Ship Fouling (1)](https://github.com/lihe/My_English_learning/issues/72)|7/15/2020
 [Trump has made 20,000 false or misleading claims since taking office: Washington Post](https://github.com/lihe/My_English_learning/issues/73)|7/16/2020
+[Face masks: do they really work?](https://github.com/lihe/My_English_learning/issues/74)|7/18/2020

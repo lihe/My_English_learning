@@ -14,6 +14,7 @@ The interest is in the future because I am going to spend the rest of my life th
 Fate makes relatives, but choice makes friends.|7/16/2020
 Only you know what is best for you.|7/17/2020
 The greatest briliance in life lies not in never falling, but fall can always rise again.|7/18/2020
+Weep no more, no sigh, nor groan. Sorrow calls no time that's gone.|7/20/2010
 
 ## Translation
 Translation|Date
@@ -109,3 +110,4 @@ News|Date
 [The Economist: Ship Fouling (1)](https://github.com/lihe/My_English_learning/issues/72)|7/15/2020
 [Trump has made 20,000 false or misleading claims since taking office: Washington Post](https://github.com/lihe/My_English_learning/issues/73)|7/16/2020
 [Face masks: do they really work?](https://github.com/lihe/My_English_learning/issues/74)|7/18/2020
+[Hubei city plans longer weekends to boost travel spending](https://github.com/lihe/My_English_learning/issues/75)|7/20/2020

@@ -15,6 +15,7 @@ Fate makes relatives, but choice makes friends.|7/16/2020
 Only you know what is best for you.|7/17/2020
 The greatest briliance in life lies not in never falling, but fall can always rise again.|7/18/2020
 Weep no more, no sigh, nor groan. Sorrow calls no time that's gone.|7/20/2010
+Life is measured by thought and action, not by time.|7/21/2020
 
 ## Translation
 Translation|Date
@@ -111,3 +112,4 @@ News|Date
 [Trump has made 20,000 false or misleading claims since taking office: Washington Post](https://github.com/lihe/My_English_learning/issues/73)|7/16/2020
 [Face masks: do they really work?](https://github.com/lihe/My_English_learning/issues/74)|7/18/2020
 [Hubei city plans longer weekends to boost travel spending](https://github.com/lihe/My_English_learning/issues/75)|7/20/2020
+[Research Suggests Pregnant Women May Pass COVID-19 To Their Babies](https://github.com/lihe/My_English_learning/issues/76)|7/21/2020

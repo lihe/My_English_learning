@@ -17,7 +17,7 @@ The greatest briliance in life lies not in never falling, but fall can always ri
 Weep no more, no sigh, nor groan. Sorrow calls no time that's gone.|7/20/2010
 Life is measured by thought and action, not by time.|7/21/2020
 Maybe life has no meaning, and the best we can hope for is just being nice.|7/22/2020
-Winners never quit, and winners never win.|7/23/2020
+Winners never quit and quitters never win.|7/23/2020
 
 ## Translation
 Translation|Date

@@ -19,6 +19,7 @@ Life is measured by thought and action, not by time.|7/21/2020
 Maybe life has no meaning, and the best we can hope for is just being nice.|7/22/2020
 Winners never quit and quitters never win.|7/23/2020
 It is so easy to be careless, but it takes curse to and courage to take cares|7/24/2020
+Mourn with the moon and the stars up above.|7/25/2020
 
 ## Translation
 Translation|Date
@@ -45,6 +46,7 @@ The Economist|Date
 [Brexit has infected British politics from top to bottom](https://github.com/lihe/My_English_learning/issues/6) | 12/18/2019
 [The Economist: News This Week](https://github.com/lihe/My_English_learning/issues/78)|7/23/2020
 [The Economist: Economic Decline in Latin America (1)](https://github.com/lihe/My_English_learning/issues/79)|7/24/2020
+[The Economist: Economic Decline in Latin America (2)](https://github.com/lihe/My_English_learning/issues/80)|7/25/2020
 
 ## CET6
 CET6|Date
@@ -121,3 +123,4 @@ News|Date
 [Chinese cinemas reopen after 6-month hiatus](https://github.com/lihe/My_English_learning/issues/77)|7/22/2020
 [The Economist: News This Week](https://github.com/lihe/My_English_learning/issues/78)|7/23/2020
 [The Economist: Economic Decline in Latin America (1)](https://github.com/lihe/My_English_learning/issues/79)|7/24/2020
+[The Economist: Economic Decline in Latin America (2)](https://github.com/lihe/My_English_learning/issues/80)|7/25/2020

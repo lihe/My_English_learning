@@ -18,6 +18,7 @@ Weep no more, no sigh, nor groan. Sorrow calls no time that's gone.|7/20/2010
 Life is measured by thought and action, not by time.|7/21/2020
 Maybe life has no meaning, and the best we can hope for is just being nice.|7/22/2020
 Winners never quit and quitters never win.|7/23/2020
+It is so easy to be careless, but it takes curse to and courage to take cares|7/24/2020
 
 ## Translation
 Translation|Date
@@ -43,6 +44,7 @@ The Economist|Date
 [The promise and the perils of impeachment](https://github.com/lihe/My_English_learning/issues/2) | 12/24/2019
 [Brexit has infected British politics from top to bottom](https://github.com/lihe/My_English_learning/issues/6) | 12/18/2019
 [The Economist: News This Week](https://github.com/lihe/My_English_learning/issues/78)|7/23/2020
+[The Economist: Economic Decline in Latin America (1)](https://github.com/lihe/My_English_learning/issues/79)|7/24/2020
 
 ## CET6
 CET6|Date
@@ -118,3 +120,4 @@ News|Date
 [Research Suggests Pregnant Women May Pass COVID-19 To Their Babies](https://github.com/lihe/My_English_learning/issues/76)|7/21/2020
 [Chinese cinemas reopen after 6-month hiatus](https://github.com/lihe/My_English_learning/issues/77)|7/22/2020
 [The Economist: News This Week](https://github.com/lihe/My_English_learning/issues/78)|7/23/2020
+[The Economist: Economic Decline in Latin America (1)](https://github.com/lihe/My_English_learning/issues/79)|7/24/2020

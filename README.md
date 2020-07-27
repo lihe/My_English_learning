@@ -59,6 +59,7 @@ CET6|Date
 [2018_12_CET6(2)](https://github.com/lihe/My_English_learning/issues/16)|11/9/2019
 [2018_6_CET6(3)](https://github.com/lihe/My_English_learning/issues/35)|12/9/2019
 [2018_6_CET6(2)](https://github.com/lihe/My_English_learning/issues/38)|12/11/2019
+[大学英语六级选词填空练习题(1)](https://github.com/lihe/My_English_learning/issues/83)|7/27/2020
 
 ## Elegant Prose
 Elegant Prose|Date

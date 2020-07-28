@@ -52,7 +52,7 @@ The Economist|Date
 [The Economist: Economic Decline in Latin America (2)](https://github.com/lihe/My_English_learning/issues/80)|7/25/2020
 [Porcelain: A History from the Heart of Europe. ](https://github.com/lihe/My_English_learning/issues/81)|7/26/2020
 [The Economist: Extraordinary Surge of Covid-19 (1)](https://github.com/lihe/My_English_learning/issues/81)|7/27/2020
-[The Economist: Extraordinary Surge of Covid-19 (2)](https://github.com/lihe/My_English_learning/issues/83)|7/28/2020
+[The Economist: Extraordinary Surge of Covid-19 (2)](https://github.com/lihe/My_English_learning/issues/84)|7/28/2020
 
 ## CET6
 CET6|Date
@@ -62,6 +62,7 @@ CET6|Date
 [2018_6_CET6(3)](https://github.com/lihe/My_English_learning/issues/35)|12/9/2019
 [2018_6_CET6(2)](https://github.com/lihe/My_English_learning/issues/38)|12/11/2019
 [大学英语六级选词填空练习题(1)](https://github.com/lihe/My_English_learning/issues/83)|7/27/2020
+[大学英语六级选词填空练习题(2)](https://github.com/lihe/My_English_learning/issues/85)|7/28/2020
 
 ## Elegant Prose
 Elegant Prose|Date
@@ -132,4 +133,4 @@ News|Date
 [The Economist: Economic Decline in Latin America (1)](https://github.com/lihe/My_English_learning/issues/79)|7/24/2020
 [The Economist: Economic Decline in Latin America (2)](https://github.com/lihe/My_English_learning/issues/80)|7/25/2020
 [The Economist: Extraordinary Surge of Covid-19 (1)](https://github.com/lihe/My_English_learning/issues/81)|7/27/2020
-[The Economist: Extraordinary Surge of Covid-19 (2)](https://github.com/lihe/My_English_learning/issues/83)|7/28/2020
+[The Economist: Extraordinary Surge of Covid-19 (2)](https://github.com/lihe/My_English_learning/issues/84)|7/28/2020

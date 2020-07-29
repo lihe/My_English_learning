@@ -23,6 +23,7 @@ Mourn with the moon and the stars up above.|7/25/2020
 Cease to inquire what the future has in store, and take as a gift whatever the day brings forth.|7/26/2020
 Being surround by the wrong people is a loneliest thing in the world.|7/27/2020
 Hope is like the sun, as we journey to it, casts the shadow of our burden behind us.|7/28/2020
+To care for wisdom and truth adn the improvement of the soul is far better than to seek money and honor and reputation|7/29/2020
 
 ## Translation
 Translation|Date

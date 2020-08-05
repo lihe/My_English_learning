@@ -26,6 +26,7 @@ Hope is like the sun, as we journey to it, casts the shadow of our burden behind
 To care for wisdom and truth adn the improvement of the soul is far better than to seek money and honor and reputation|7/29/2020
 I am simply I, and I cannot be labeled.|8/3/2020 
 Time flies never to be recalled.|8/4/2020 
+Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease.|8/5/2020
 
 ## Translation
 Translation|Date
@@ -59,6 +60,7 @@ The Economist|Date
 [The Economist: Airlines and the Climate (1)](https://github.com/lihe/My_English_learning/issues/86)|7/29/2020
 [The Economist: Good Judgment (1)](https://github.com/lihe/My_English_learning/issues/87)|8/3/2020
 [The Economist: Airlines and the Climate (2)](https://github.com/lihe/My_English_learning/issues/88)|8/4/2020
+[The Economist: Economic Decline in Latin America (3)](https://github.com/lihe/My_English_learning/issues/89)|8/5/2020
 
 ## CET6
 CET6|Date
@@ -141,3 +143,4 @@ News|Date
 [The Economist: Extraordinary Surge of Covid-19 (1)](https://github.com/lihe/My_English_learning/issues/81)|7/27/2020
 [The Economist: Extraordinary Surge of Covid-19 (2)](https://github.com/lihe/My_English_learning/issues/84)|7/28/2020
 [The Economist: Good Judgment (1)](https://github.com/lihe/My_English_learning/issues/87)|8/3/2020
+[The Economist: Economic Decline in Latin America (3)](https://github.com/lihe/My_English_learning/issues/89)|8/5/2020

@@ -28,6 +28,7 @@ I am simply I, and I cannot be labeled.|8/3/2020
 Time flies never to be recalled.|8/4/2020 
 Youth means a temperamental predominance of courage over timidity, of the appetite for adventure over the love of ease.|8/5/2020
 Everything about him was old except his eyes and they were the same color as the sea and were cheerful and undefeated.|8/6/2020
+Let life be beautiful like summer flowers and death like autumn leaves.|8/7/2020
 
 ## Translation
 Translation|Date
@@ -63,6 +64,7 @@ The Economist|Date
 [The Economist: Airlines and the Climate (2)](https://github.com/lihe/My_English_learning/issues/88)|8/4/2020
 [The Economist: Economic Decline in Latin America (3)](https://github.com/lihe/My_English_learning/issues/89)|8/5/2020
 [The Economist: Hydrogen Economy (1)](https://github.com/lihe/My_English_learning/issues/90)|8/6/2020
+[The Economist: Hydrogen Economy (2)](https://github.com/lihe/My_English_learning/issues/91)|8/7/2020
 
 ## CET6
 CET6|Date
@@ -147,3 +149,4 @@ News|Date
 [The Economist: Good Judgment (1)](https://github.com/lihe/My_English_learning/issues/87)|8/3/2020
 [The Economist: Economic Decline in Latin America (3)](https://github.com/lihe/My_English_learning/issues/89)|8/5/2020
 [The Economist: Hydrogen Economy (1)](https://github.com/lihe/My_English_learning/issues/90)|8/6/2020
+[The Economist: Hydrogen Economy (2)](https://github.com/lihe/My_English_learning/issues/91)|8/7/2020

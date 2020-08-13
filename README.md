@@ -31,6 +31,7 @@ Everything about him was old except his eyes and they were the same color as the
 Let life be beautiful like summer flowers and death like autumn leaves.|8/7/2020
 The hardships that I encounted in the past will help me succeed in the future.|8/11/2020
 Love does not consist in gazing at each other but in looking outward together in the same direction.|8/12/2020
+We never really know a man until you stand in his shoes and walk around in them.|8/13/2020
 
 ## Translation
 Translation|Date
@@ -69,6 +70,7 @@ The Economist|Date
 [The Economist: Hydrogen Economy (2)](https://github.com/lihe/My_English_learning/issues/91)|8/7/2020
 [The Economist: Cyber-Security (1)](https://github.com/lihe/My_English_learning/issues/92)|8/11/2020
 [The Economist: Cyber-Security (2)](https://github.com/lihe/My_English_learning/issues/93)|8/12/2020
+[The Economist: EU's Budget (1)](https://github.com/lihe/My_English_learning/issues/94)|8/13/2020
 
 ## CET6
 CET6|Date
@@ -156,3 +158,4 @@ News|Date
 [The Economist: Hydrogen Economy (2)](https://github.com/lihe/My_English_learning/issues/91)|8/7/2020
 [The Economist: Cyber-Security (1)](https://github.com/lihe/My_English_learning/issues/92)|8/11/2020
 [The Economist: Cyber-Security (2)](https://github.com/lihe/My_English_learning/issues/93)|8/12/2020
+[The Economist: EU's Budget (1)](https://github.com/lihe/My_English_learning/issues/94)|8/13/2020

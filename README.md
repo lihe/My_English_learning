@@ -33,6 +33,7 @@ The hardships that I encounted in the past will help me succeed in the future.|8
 Love does not consist in gazing at each other but in looking outward together in the same direction.|8/12/2020
 We never really know a man until you stand in his shoes and walk around in them.|8/13/2020
 Create your own life and then go out and live it with absolutely no regrets.|8/16/2020
+Nothing in the world can take the place of persistence.|8/18/2020
 
 ## Translation
 Translation|Date
@@ -73,6 +74,7 @@ The Economist|Date
 [The Economist: Cyber-Security (2)](https://github.com/lihe/My_English_learning/issues/93)|8/12/2020
 [The Economist: EU's Budget (1)](https://github.com/lihe/My_English_learning/issues/94)|8/13/2020
 [The Economist: Good Judgment (1)](https://github.com/lihe/My_English_learning/issues/95)|8/16/2020
+[The Economist: EU's Budget (2)](https://github.com/lihe/My_English_learning/issues/96)|8/18/2020
 
 ## CET6
 CET6|Date
@@ -162,3 +164,4 @@ News|Date
 [The Economist: Cyber-Security (2)](https://github.com/lihe/My_English_learning/issues/93)|8/12/2020
 [The Economist: EU's Budget (1)](https://github.com/lihe/My_English_learning/issues/94)|8/13/2020
 [The Economist: Good Judgment (1)](https://github.com/lihe/My_English_learning/issues/95)|8/16/2020
+[The Economist: EU's Budget (2)](https://github.com/lihe/My_English_learning/issues/96)|8/18/2020

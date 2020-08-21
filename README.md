@@ -35,7 +35,7 @@ We never really know a man until you stand in his shoes and walk around in them.
 Create your own life and then go out and live it with absolutely no regrets.|8/16/2020
 Nothing in the world can take the place of persistence.|8/18/2020
 Yesterdays's records can keep us from repeating yesterday's mistakes.|8/20/2020
-The high-mined man does not bear grudges, for it is not the mark of a great soul to remember injuries, but to forget them.8/21/2020
+The high-mined man does not bear grudges, for it is not the mark of a great soul to remember injuries, but to forget them.|8/21/2020
 
 ## Translation
 Translation|Date

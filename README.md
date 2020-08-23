@@ -37,6 +37,7 @@ Nothing in the world can take the place of persistence.|8/18/2020
 Yesterdays's records can keep us from repeating yesterday's mistakes.|8/20/2020
 The high-mined man does not bear grudges, for it is not the mark of a great soul to remember injuries, but to forget them.|8/21/2020
 A major advantage of the remarkable people is: perseverance in the adverse and difficult encounter.|8/22/2020
+The more a man knows, the more he is inclined to be modest.|8/23/2020
 
 ## Translation
 Translation|Date
@@ -80,6 +81,7 @@ The Economist|Date
 [The Economist: EU's Budget (2)](https://github.com/lihe/My_English_learning/issues/96)|8/18/2020
 [The Economist: A New Trade War(1)](https://github.com/lihe/My_English_learning/issues/98)|8/21/2020
 [The Economist: A New Trade War(2)](https://github.com/lihe/My_English_learning/issues/99)|8/22/2020
+[The Economist: Sewage Research (1)](https://github.com/lihe/My_English_learning/issues/100)|8/23/2020
 
 ## CET6
 CET6|Date
@@ -173,3 +175,4 @@ News|Date
 [The Economist: Good Judgment (2)](https://github.com/lihe/My_English_learning/issues/97)|8/20/2020
 [The Economist: A New Trade War(1)](https://github.com/lihe/My_English_learning/issues/98)|8/21/2020
 [The Economist: A New Trade War(2)](https://github.com/lihe/My_English_learning/issues/99)|8/22/2020
+[The Economist: Sewage Research (1)](https://github.com/lihe/My_English_learning/issues/100)|8/23/2020

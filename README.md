@@ -40,6 +40,7 @@ A major advantage of the remarkable people is: perseverance in the adverse and d
 The more a man knows, the more he is inclined to be modest.|8/23/2020
 While traits you were born with, skills you had to learn.|8/26/2020
 I don't know the key to success, but the key to failure is trying to please everybody.|8/27/2020
+I have decided to stick with love, hate is too great a burden to bear.|8/28/2020
 
 ## Translation
 Translation|Date
@@ -86,6 +87,7 @@ The Economist|Date
 [The Economist: Sewage Research (1)](https://github.com/lihe/My_English_learning/issues/100)|8/23/2020
 [The Economist: Mid-century Modern (1)](https://github.com/lihe/My_English_learning/issues/101)|8/26/2020
 [The Economist: Mid-century Modern (2)](https://github.com/lihe/My_English_learning/issues/102)|8/27/2020
+[Foam party](https://github.com/lihe/My_English_learning/issues/103)|8/28/2020
 
 ## CET6
 CET6|Date

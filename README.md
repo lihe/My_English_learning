@@ -42,6 +42,7 @@ While traits you were born with, skills you had to learn.|8/26/2020
 I don't know the key to success, but the key to failure is trying to please everybody.|8/27/2020
 I have decided to stick with love, hate is too great a burden to bear.|8/28/2020
 Compared to surviving, everything has to be palced in the second place.|8/29/2020
+Do not settle for the life gives you; make life better and build something.8/30/2020
 
 ## Translation
 Translation|Date
@@ -100,6 +101,7 @@ CET6|Date
 [2018_6_CET6(2)](https://github.com/lihe/My_English_learning/issues/38)|12/11/2019
 [大学英语六级选词填空练习题(1)](https://github.com/lihe/My_English_learning/issues/83)|7/27/2020
 [大学英语六级选词填空练习题(2)](https://github.com/lihe/My_English_learning/issues/85)|7/28/2020
+[大学英语六级选词填空练习题(3)](https://github.com/lihe/My_English_learning/issues/105)|8/30/2020
 
 ## Elegant Prose
 Elegant Prose|Date

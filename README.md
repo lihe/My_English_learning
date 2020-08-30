@@ -42,7 +42,7 @@ While traits you were born with, skills you had to learn.|8/26/2020
 I don't know the key to success, but the key to failure is trying to please everybody.|8/27/2020
 I have decided to stick with love, hate is too great a burden to bear.|8/28/2020
 Compared to surviving, everything has to be palced in the second place.|8/29/2020
-Do not settle for the life gives you; make life better and build something.8/30/2020
+Do not settle for the life gives you; make life better and build something.|8/30/2020
 
 ## Translation
 Translation|Date

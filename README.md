@@ -44,6 +44,7 @@ I have decided to stick with love, hate is too great a burden to bear.|8/28/2020
 Compared to surviving, everything has to be palced in the second place.|8/29/2020
 Do not settle for the life gives you; make life better and build something.|8/30/2020
 I will not say "Do not weep", for not all tears are an evil.|8/31/2020 
+Do not let the noise of other's opinion drown out your own inner voice.|9/1/2020
 
 ## Translation
 Translation|Date
@@ -104,6 +105,7 @@ CET6|Date
 [大学英语六级选词填空练习题(2)](https://github.com/lihe/My_English_learning/issues/85)|7/28/2020
 [大学英语六级选词填空练习题(3)](https://github.com/lihe/My_English_learning/issues/105)|8/30/2020
 [大学英语六级选词填空练习题(4)](https://github.com/lihe/My_English_learning/issues/106)|8/31/2020
+[大学英语六级选词填空练习题(5)](https://github.com/lihe/My_English_learning/issues/107)|9/1/2020
 
 ## Elegant Prose
 Elegant Prose|Date

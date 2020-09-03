@@ -46,6 +46,7 @@ Do not settle for the life gives you; make life better and build something.|8/30
 I will not say "Do not weep", for not all tears are an evil.|8/31/2020 
 Do not let the noise of other's opinion drown out your own inner voice.|9/1/2020
 Opportunities are like sunrises. If you wait too long, you lose them.|9/2/2020
+It is nothing that a gallant girl can't handle.|9/3/2020
 
 ## Translation
 Translation|Date
@@ -110,6 +111,7 @@ CET6|Date
 [大学英语六级选词填空练习题(6)](https://github.com/lihe/My_English_learning/issues/108)|9/2/2020
 [大学英语六级选词填空练习题(7)](https://github.com/lihe/My_English_learning/issues/109)|9/2/2020
 [大学英语六级选词填空练习题(8)](https://github.com/lihe/My_English_learning/issues/110)|9/2/2020
+[大学英语六级长篇阅读练习题(1)](https://github.com/lihe/My_English_learning/issues/111)|9/3/2020
 
 ## Elegant Prose
 Elegant Prose|Date

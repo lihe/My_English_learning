@@ -47,6 +47,7 @@ I will not say "Do not weep", for not all tears are an evil.|8/31/2020
 Do not let the noise of other's opinion drown out your own inner voice.|9/1/2020
 Opportunities are like sunrises. If you wait too long, you lose them.|9/2/2020
 It is nothing that a gallant girl can't handle.|9/3/2020
+End of sermon. As Huddha says: live like a mighty river.|9/4/2020
 
 ## Translation
 Translation|Date
@@ -57,6 +58,7 @@ Translation|Date
 [微电影](https://github.com/lihe/My_English_learning/issues/68)|7/12/2020
 [双语教育](https://github.com/lihe/My_English_learning/issues/71)|7/14/2020
 [红色](https://github.com/lihe/My_English_learning/issues/104)|8/29/2020
+[中华民族传统文化](https://github.com/lihe/My_English_learning/issues/112)|9/4/2020
 
 ## TED
 TED|Date

@@ -114,6 +114,7 @@ CET6|Date
 [大学英语六级选词填空练习题(7)](https://github.com/lihe/My_English_learning/issues/109)|9/2/2020
 [大学英语六级选词填空练习题(8)](https://github.com/lihe/My_English_learning/issues/110)|9/2/2020
 [大学英语六级长篇阅读练习题(1)](https://github.com/lihe/My_English_learning/issues/111)|9/3/2020
+[大学英语六级长篇阅读练习题(2)](https://github.com/lihe/My_English_learning/issues/113)|9/4/2020
 
 ## Elegant Prose
 Elegant Prose|Date

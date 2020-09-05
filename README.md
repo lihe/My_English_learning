@@ -49,6 +49,7 @@ Opportunities are like sunrises. If you wait too long, you lose them.|9/2/2020
 It is nothing that a gallant girl can't handle.|9/3/2020
 End of sermon. As Huddha says: live like a mighty river.|9/4/2020
 I have seen a thousand moons: harvest moons like gold coins, winter moons as white as ice chips, new moons like baby swan's feathers.|9/5/2020
+Learning another language gives the learner the ability to step inside the mind and context of the other culture.|9/6/2020
 
 ## Translation
 Translation|Date
@@ -117,6 +118,7 @@ CET6|Date
 [大学英语六级选词填空练习题(8)](https://github.com/lihe/My_English_learning/issues/110)|9/2/2020
 [大学英语六级长篇阅读练习题(1)](https://github.com/lihe/My_English_learning/issues/111)|9/3/2020
 [大学英语六级长篇阅读练习题(2)](https://github.com/lihe/My_English_learning/issues/113)|9/4/2020
+[大学英语六级长篇阅读练习题(3)](https://github.com/lihe/My_English_learning/issues/115)|9/5/2020
 
 ## Elegant Prose
 Elegant Prose|Date

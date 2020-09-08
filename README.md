@@ -51,6 +51,8 @@ End of sermon. As Huddha says: live like a mighty river.|9/4/2020
 I have seen a thousand moons: harvest moons like gold coins, winter moons as white as ice chips, new moons like baby swan's feathers.|9/5/2020
 Learning another language gives the learner the ability to step inside the mind and context of the other culture.|9/6/2020
 To simply wake up every morning a better person than I went to bed.|9/7/2020 
+The first in time and the first in importance of the influences upon the mind in that of nature.|9/7/2020
+Purse excellence and the success will follow.|9/8/2020
 
 ## Translation
 Translation|Date

@@ -53,6 +53,7 @@ Learning another language gives the learner the ability to step inside the mind 
 To simply wake up every morning a better person than I went to bed.|9/7/2020 
 The first in time and the first in importance of the influences upon the mind in that of nature.|9/8/2020
 As the saying goes, a friend in need is a friend indeed.|9/9/2020
+So the this new opportunity to look about and fill your lungs with that fantastic land, while it and you are still there.|9/10/2020
 
 ## Translation
 Translation|Date
@@ -123,6 +124,7 @@ CET6|Date
 [大学英语六级长篇阅读练习题(2)](https://github.com/lihe/My_English_learning/issues/113)|9/4/2020
 [大学英语六级长篇阅读练习题(3)](https://github.com/lihe/My_English_learning/issues/115)|9/5/2020
 [大学英语六级长篇阅读练习题(4)](https://github.com/lihe/My_English_learning/issues/116)|9/9/2020
+[大学英语六级选词填空练习题(9)](https://github.com/lihe/My_English_learning/issues/117)|9/10/2020
 
 ## Elegant Prose
 Elegant Prose|Date

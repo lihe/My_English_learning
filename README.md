@@ -67,6 +67,7 @@ Translation|Date
 [红色](https://github.com/lihe/My_English_learning/issues/104)|8/29/2020
 [中华民族传统文化](https://github.com/lihe/My_English_learning/issues/112)|9/4/2020
 [古城西安](https://github.com/lihe/My_English_learning/issues/114)|9/5/2020
+[中国的创新正以前所未有的速度蓬勃发展](https://github.com/lihe/My_English_learning/issues/118)|9/11/2020
 
 ## TED
 TED|Date

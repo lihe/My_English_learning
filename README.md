@@ -56,7 +56,7 @@ As the saying goes, a friend in need is a friend indeed.|9/9/2020
 So the this new opportunity to look about and fill your lungs with that fantastic land, while it and you are still there.|9/10/2020
 An indiviudal human existance should be like a river, small at first, narrowly contained within its banks and rushing passionately.|9/11/2020
 Money means a win-win situation for me and the others.|9/12/2020
-Music is life. What would this world be witout good music? No matter what kind it is.9/13/2020
+Music is life. What would this world be witout good music? No matter what kind it is.|9/13/2020
 
 
 ## Translation

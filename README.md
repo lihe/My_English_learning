@@ -58,6 +58,7 @@ An indiviudal human existance should be like a river, small at first, narrowly c
 Money means a win-win situation for me and the others.|9/12/2020
 Music is life. What would this world be witout good music? No matter what kind it is.|9/13/2020
 I prefer to take my time and enjoy the scenery along the way.|9/14/2020
+And the only thing people regrets is that they don't live boldly enough, that they don't invest enough heart, didn't love enough.|9/16/2020
 
 
 ## Translation

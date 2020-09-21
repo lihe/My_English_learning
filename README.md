@@ -60,6 +60,7 @@ Music is life. What would this world be witout good music? No matter what kind i
 I prefer to take my time and enjoy the scenery along the way.|9/14/2020
 And the only thing people regrets is that they don't live boldly enough, that they don't invest enough heart, didn't love enough.|9/16/2020
 I don't think it is reliable to judge a person by the first glance.|9/18/2020
+Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which if you will sit down quietly, may upon you.|9/21/2020
 
 
 ## Translation

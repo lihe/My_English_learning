@@ -63,6 +63,7 @@ I don't think it is reliable to judge a person by the first glance.|9/18/2020
 Happiness is a butterfly, which when pursued, is always just beyond your grasp, but which if you will sit down quietly, may upon you.|9/21/2020
 Let your life by a compass, not a clock.|9/23/2020
 If the sea doomed someday to break its levees, my heart must flood with all the bitter waters.|9/24/2020
+Good negotiators learn fast. Poor negotiators remain like that and go on losing negotiations.|9/29/2020
 
 
 ## Translation

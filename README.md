@@ -64,6 +64,7 @@ Happiness is a butterfly, which when pursued, is always just beyond your grasp, 
 Let your life by a compass, not a clock.|9/23/2020
 If the sea doomed someday to break its levees, my heart must flood with all the bitter waters.|9/24/2020
 Good negotiators learn fast. Poor negotiators remain like that and go on losing negotiations.|9/29/2020
+Don't be too concerned with the opinions of others.|9/30/2020
 
 
 ## Translation
